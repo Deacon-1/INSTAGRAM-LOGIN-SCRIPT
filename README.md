@@ -2,7 +2,7 @@
 
 <strong>FREE SCRIPT</strong>
 
-<strong>MESSAGE ME</strong> > https://t.me/cyclonehax
+<strong>MESSAGE ME</strong> > https://t.me/Dacypherd
 
 ![igg1](https://user-images.githubusercontent.com/126171404/223110203-13bcb795-d94f-4399-ae8e-a5d8f3180c03.PNG)
 
@@ -11,7 +11,7 @@ THIS IS A FREE SCRIPT AVAILABLE FOR EVERYONE
 
 DO NOT MISUSE THIS SCRIPT
 
-<strong>MESSAGE ME</strong>  > https://t.me/cyclonehax
+<strong>MESSAGE ME</strong>  > https://t.me/Dacypherd
 
 # COMPONENTS
 HTML
@@ -24,7 +24,7 @@ JS
 
 IMG
 
-<strong> MESSAGE ME </strong>  > https://t.me/cyclonehax
+<strong> MESSAGE ME </strong>  > https://t.me/Dacypherd
 
 # USAGE
 WEB HOST
@@ -33,7 +33,7 @@ DOMAIN
 
 SSL
 
-<strong>MESSAGE ME</strong>  > https://t.me/cyclonehax
+<strong>MESSAGE ME</strong>  > https://t.me/Dacypherd
 
 # LEGAL DISCLAIMER
 THIS IS JUST A FRONTEND AND BACKEND TESTING SCRIPT MADE FOR PENTESTING
